@@ -1,2 +1,2 @@
 # frontend-learning
-前端小白每日学习中......
+前端学习日记|HTML CSS JS每日练习
